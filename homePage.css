@@ -1,0 +1,15 @@
+
+
+#heading {
+    background-color: lightcoral;
+    color: black;
+}
+
+#background {
+    background-color: lightblue;
+}
+
+#navbar {
+    float: right;
+    background-color: lightgray;
+}
